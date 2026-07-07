@@ -3,8 +3,8 @@
   "updated": "2026-07-07T21:00:00Z",
 
   "dns": {
-    "primary": "8.8.8.8",
-    "secondary": "8.8.4.4"
+    "primary": "68.94.156.1",
+    "secondary": "68.94.157.1 "
   },
 
   "device": {
