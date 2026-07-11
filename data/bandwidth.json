@@ -1,0 +1,35 @@
+{
+  "updated": "2026-07-11",
+  "activities": [
+    {
+      "name": "Netflix HD",
+      "unit": "GB",
+      "hourly": 3.0,
+      "icon": "🎬"
+    },
+    {
+      "name": "Netflix 4K",
+      "unit": "GB",
+      "hourly": 7.0,
+      "icon": "🎬"
+    },
+    {
+      "name": "Fortnite",
+      "unit": "MB",
+      "hourly": 75,
+      "icon": "🎮"
+    },
+    {
+      "name": "Minecraft",
+      "unit": "MB",
+      "hourly": 140,
+      "icon": "🎮"
+    },
+    {
+      "name": "Roblox",
+      "unit": "MB",
+      "hourly": 350,
+      "icon": "🎮"
+    }
+  ]
+}
